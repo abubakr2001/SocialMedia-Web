@@ -1,0 +1,14 @@
+.Sidebarfriend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+ }
+ .SidebarfriendImage{
+    width: 35px;
+    height: 35px;
+    display: flex;
+   
+    margin-right: 15px;
+    object-fit: cover;
+ }
